@@ -7,7 +7,7 @@ The goal of this set of repositories is to collect tips, tricks and code example
 The initial idea for this GitHub exchange came from colleagues at Siemens Healthineers and LMU Munich. Many thanks :)
         
 ## Repositories   
-Separate Repositories for individual topics and community-projects can easily be created after short consultation with us.
+Separate [Repositories](https://github.com/ths-community?tab=repositories) for individual topics and community-projects can easily be created after short consultation with us.
 
 ### Ongoing community-work for E-PIX, gPAS, gICS includes 
 - Kubernetes-scripts for E-PIX, gPAS, gICS 
@@ -15,7 +15,7 @@ Separate Repositories for individual topics and community-projects can easily be
 - NodeJs-based Webfrontend for E-PIX, gPAS, gICS 
 - *[Redcap-Integration based on SOAP for E-PIX and gPAS (external repo)](https://github.com/cerhardt/redcap-pseudo-service)*
 
-See the list of repositories for details and to get in contact with the respective collaborators.
+See the [list of repositories](https://github.com/ths-community?tab=repositories) for details and to get in contact with the respective collaborators.
 
 ## Additional Information
 
