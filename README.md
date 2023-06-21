@@ -1,5 +1,7 @@
 # THS-Community
 
+![](https://www.ths-greifswald.de/wp-content/uploads/2019/01/Design-Logo-THS-deutsch-271.png)
+
 ## About
 The goal of this set of repositories is to collect tips, tricks and code examples for [E-PIX](https://ths-greifswald.de/e-pix), [gPAS](https://ths-greifswald.de/gpas) and [gICS](https://ths-greifswald.de/gics) from the community in one place and to promote the exchange of experiences among our users.
 The initial idea for this GitHub exchange came from colleagues at Siemens Healthineers and LMU Munich. Many thanks :)
