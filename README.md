@@ -9,6 +9,14 @@ The initial idea for this GitHub exchange came from colleagues at Siemens Health
 ## Repositories   
 Separate Repositories for individual topics and community-projects can easily be created after short consultation with us.
 
+### Ongoing community-work for E-PIX, gPAS, gICS includes 
+- Kubernetes-scripts for E-PIX, gPAS, gICS 
+- Podman-scripts for gICS as an alternative for Docker
+- NodeJs-based Webfrontend for E-PIX, gPAS, gICS 
+- *[Redcap-Integration based on SOAP for E-PIX and gPAS (external repo)](https://github.com/cerhardt/redcap-pseudo-service)*
+
+See the list of repositories for details and to get in contact with the respective collaborators.
+
 ## Additional Information
 
 E-PIX, gPAS, gICS, TTP-Dispatcher, TTP-FHIR-Gateway and NotificationService (+Client) were developed and published from 2013 (til today) by the University Medicine Greifswald.
