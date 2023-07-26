@@ -17,6 +17,25 @@ Separate [Repositories](https://github.com/ths-community?tab=repositories) for i
 
 See the [list of repositories](https://github.com/ths-community?tab=repositories) for details and to get in contact with the respective collaborators.
 
+### Use of SSH keys to push/commit to ths-community-project
+Scenario: 
+- use of multiple accounts on Github to push/commit into ths-community-projects
+- all accounts have to ssh to Github as git@github.com
+- the ssh key is used to determine which Github user you are
+- in this case neither .ssh/config nor ssh-agent will work
+
+Solution:
+
+- Create a local repository:
+
+`git clone -c core.sshCommand="/usr/bin/ssh -i /home/me/.ssh/id_rsa_foo" git@github.com:me/repo.git`
+
+- Once you've cloned the repository you can use the git config command to set this permanently: 
+
+`git config --local core.sshCommand "/usr/bin/ssh -i /home/me/.ssh/id_rsa_foo"`
+
+References: [stackoverflow, accessed 2023-07-26](https://stackoverflow.com/questions/6688655/select-private-key-to-use-with-git#41947805)
+
 ## Additional Information
 
 E-PIX, gPAS, gICS, TTP-Dispatcher, TTP-FHIR-Gateway and NotificationService (+Client) were developed and published from 2013 (til today) by the University Medicine Greifswald.
