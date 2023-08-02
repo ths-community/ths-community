@@ -14,6 +14,7 @@ Separate [Repositories](https://github.com/ths-community?tab=repositories) for i
 - Podman-scripts for gICS as an alternative for Docker
 - NodeJs-based Webfrontend for E-PIX, gPAS, gICS 
 - *[Redcap-Integration based on SOAP for E-PIX and gPAS (external repo)](https://github.com/cerhardt/redcap-pseudo-service)*
+- Redcap-Integration based on REST for [TTP-Dispatcher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4467617/)
 
 See the [list of repositories](https://github.com/ths-community?tab=repositories) for details and to get in contact with the respective collaborators.
 
